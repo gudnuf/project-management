@@ -1,0 +1,19 @@
+# .github/ISSUE_TEMPLATE/nut-implementation.yml
+name: NUT Implementation
+description: Track implementation of a NUT specification
+labels: ["nut-implementation"]
+body:
+  - type: dropdown
+    id: nut
+    attributes:
+      label: NUT Number
+      options: ["07", "08", "09", "10", "11", "12", ...]
+  - type: checkboxes
+    attributes:
+      label: Implementation Checklist
+      options:
+        - label: Core protocol logic
+        - label: Unit tests
+        - label: Integration tests
+        - label: Documentation
+        - label: Test vectors pass
