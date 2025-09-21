@@ -1,0 +1,10 @@
+# .github/labels.yml
+- name: "nut:07"
+  color: "0366d6"
+  description: "Related to NUT-07 (Token State Check)"
+- name: "breaking-change"
+  color: "d73a4a"
+  description: "Requires coordination across implementations"
+- name: "needs-spec-clarification"
+  color: "fbca04"
+  description: "Blocked on NUT specification update"

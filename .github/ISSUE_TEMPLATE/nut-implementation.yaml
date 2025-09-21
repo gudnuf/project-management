@@ -1,5 +1,5 @@
 # .github/ISSUE_TEMPLATE/nut-implementation.yml
-name: NUT Implementation
+name: NUTs Change
 description: Track implementation of a NUT specification
 labels: ["nut-implementation"]
 body:
